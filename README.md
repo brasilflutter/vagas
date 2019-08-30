@@ -8,7 +8,7 @@
 
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
 
-Vagas disponíveis em https://github.com/Flutter-Brazil/vagas/issues
+Vagas disponíveis em https://github.com/flutter-brazil/vagas/issues
 
 ### Cadastrando uma vaga
 
