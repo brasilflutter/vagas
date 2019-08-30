@@ -1,7 +1,7 @@
 ---
 name: Adicionar nova vaga
 about: Não esqueça de seguir todas as instruções do template antes de abrir a vaga.
-title: "[Cidade] Front-end Developer na NOME DA EMPRESA"
+title: "[Cidade] Flutter Developer na NOME DA EMPRESA"
 labels: ''
 assignees: ''
 
@@ -9,20 +9,20 @@ assignees: ''
 
 <!-- 
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA Flutter ou Dart!
 
 Não faça distinção de gênero no título da vaga.
 
-Use: "Front-End Developer" ao invés de 
+Use: "Flutter Developer" ao invés de 
 "Desenvolvedor Front-End" \o/
 
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
+Exemplo: `[São Paulo] Flutter Developer na NOME DA EMPRESA`
 ==================================================
 -->
 
 ## Descrição da vaga
 
-Projeto bazinga em NodeJS, etc.
+Projeto mobile bazinga em Flutter, etc.
 
 ## Local
 
@@ -47,12 +47,12 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+- 3 anos de experiência com Flutter
+- 2 anos de experiência com desenvolvimento mobile nativo
 
 **Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
+- conhecimentos em react native
+- conhecimentos em ionic
 
 **Diferenciais:**
 - projetos opensource
@@ -67,7 +67,7 @@ Aqui na Corporação ACME somos líderes em...
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga Flutter
 
 ## Tempo médio de feedbacks
 
