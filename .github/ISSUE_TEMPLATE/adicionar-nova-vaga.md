@@ -14,7 +14,7 @@ POR FAVOR, SÓ POSTE SE A VAGA FOR PARA Flutter ou Dart!
 Não faça distinção de gênero no título da vaga.
 
 Use: "Flutter Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
+"Desenvolvedor Flutter" \o/
 
 Exemplo: `[São Paulo] Flutter Developer na NOME DA EMPRESA`
 ==================================================
