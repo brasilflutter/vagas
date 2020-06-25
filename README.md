@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Flutter-Brazil/brand/blob/master/src/jpg/banner.jpeg" width="400" alt="FlutterBR">
+<img src="https://github.com/Flutter-Brazil/brand/blob/master/src/jpg/banner.jpeg" alt="FlutterBR">
 </p>
 <h1 align="center">Vagas</h1>
 <p align="center">:microscope: Espaço para divulgação de vagas relacionadas com Flutter e Dart.</p>
