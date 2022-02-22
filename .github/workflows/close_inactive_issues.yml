@@ -1,0 +1,25 @@
+name: Close inactive issues
+on:
+  schedule:
+    - cron: "0 12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  close-issues:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/stale@v3
+        with:
+          days-before-issue-stale: 60
+          days-before-issue-close: 30
+          stale-issue-label: "stale"
+          stale-issue-message: "Esta issue já tem 2 meses, sem qualquer atividade. Issues inativas por mais de 3 meses serão fechadas automaticamente. \nPara evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 3 meses, coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 3 meses e não tiver manutenção, a mesma poderá ser fechada por um moderador do repositório."
+          close-issue-message: "Esta issue está sendo fechada por motivo de inatividade."
+          days-before-pr-stale: -1
+          days-before-pr-close: -1
+          operations-per-run: 15
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
