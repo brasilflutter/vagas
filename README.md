@@ -1,6 +1,5 @@
-<p align="center">
-![image](https://github.com/brasilflutter/vagas/assets/2637049/76a2717d-8b22-4598-b457-10a1653685e8)
-</p>
+![image](https://github.com/brasilflutter/vagas/assets/2637049/bc21b8d9-f8e4-40a3-b19f-bdbc91da04d7)
+
 <h1 align="center">Vagas</h1>
 <p align="center">:microscope: Espaço para divulgação de vagas relacionadas com Flutter e Dart.</p>
 
