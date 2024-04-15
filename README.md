@@ -1,5 +1,5 @@
 <p align="center">
-![dash_cover_ds](https://github.com/brasilflutter/.github/assets/2637049/2c4887d6-6bed-4c4f-a368-a2a23169475a)
+![image](https://github.com/brasilflutter/vagas/assets/2637049/76a2717d-8b22-4598-b457-10a1653685e8)
 </p>
 <h1 align="center">Vagas</h1>
 <p align="center">:microscope: Espaço para divulgação de vagas relacionadas com Flutter e Dart.</p>
