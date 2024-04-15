@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Flutter-Brazil/brand/blob/master/src/jpg/banner.jpeg" alt="FlutterBR">
+![dash_cover_ds](https://github.com/brasilflutter/.github/assets/2637049/2c4887d6-6bed-4c4f-a368-a2a23169475a)
 </p>
 <h1 align="center">Vagas</h1>
 <p align="center">:microscope: Espaço para divulgação de vagas relacionadas com Flutter e Dart.</p>
@@ -8,7 +8,7 @@
 
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
 
-Vagas disponíveis em https://github.com/flutter-brazil/vagas/issues
+Vagas disponíveis em [https://github.com/flutter-brazil/vagas/issues](https://github.com/brasilflutter/vagas/issues)
 
 ### Cadastrando uma vaga
 
@@ -24,7 +24,7 @@ Exemplo: `[São Paulo] Flutter Developer na [NOME DA EMPRESA]`
 
 1. Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 3 meses, coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 3 meses e não tiver manutenção, a mesma poderá ser fechada por um moderador do repositório.
 
-2. Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/Flutter-Brazil/vagas/blob/master/.github/ISSUE_TEMPLATE/adicionar-nova-vaga.md), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
+2. Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/flutterbr/vagas/blob/master/.github/ISSUE_TEMPLATE/adicionar-nova-vaga.md), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
 
 ### Como receber atualizações de novas vagas:
 Você pode receber atualizações das vagas no seu email ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**, você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
